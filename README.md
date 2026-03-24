@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Udhayakarthick%20Narayanan&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Builder&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Udhayakarthick%20Narayanan&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35%20&desc=Full-Stack%20Developer%E2%80%A8&descAlignY=55&descAlign=50" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+FAANG-Level+Production+Systems;LeetCode-Style+Online+Judge+%7C+40%2B+subs%2Fsec;Signal+Protocol+E2E+Encryption+%7C+X3DH+%2B+Double+Ratchet;AI-Powered+Dev+Tools+%7C+Gemini+2.5+Flash;Computer+Vision+%7C+YOLOv8+%2B+EasyOCR;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+FAANG-Level+Production+Systems;LeetCode-Style+Online+Judge+%7C+40%2B+subs%2Fsec;Signal+Protocol+E2E+Encryption+%7C+X3DH+%2B+Double+Ratchet;AI-Powered+Dev+Tools+%7C+Gemini+2.5+Flash;Computer+Vision+%7C+YOLOv8+%2B+EasyOCR;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
